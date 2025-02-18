@@ -28,8 +28,7 @@ This project demonstrates the basic structure of the Solar System, including the
 To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/prasad-droid/Solar-System.git```
+   ```git clone https://github.com/prasad-droid/Solar-System.git```
 
 2. ```cd Solar-System``` in your terminal
 
@@ -45,3 +44,5 @@ To run this project on your local machine, follow these steps:
    Responsive Design: The Solar System adjusts to different screen sizes, making it accessible on desktop and mobile devices.
    Customizable: You can easily change planet colors, sizes, and speeds by editing the CSS and JavaScript files.
 
+## License
+This project is open-source and available under the [MIT License](LICENCE).
