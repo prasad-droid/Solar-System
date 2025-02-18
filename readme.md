@@ -33,4 +33,15 @@ To run this project on your local machine, follow these steps:
 
 2. ```cd Solar-System``` in your terminal
 
-3. Open the ```index.html`` file in your browser to view the Solar System
+3. Open the ```index.html``` file in your browser to view the Solar System
+
+## Usage
+   Open the index.html file in any modern browser.
+   You will see a simulation of the Solar System with the Sun at the center and planets revolving around it.
+   The planets' movements are animated, and you can modify the parameters like speed, size, and colors in the CSS file.
+
+## Features
+   Animated Planets: The planets rotate around the Sun with unique speeds and orbital paths.
+   Responsive Design: The Solar System adjusts to different screen sizes, making it accessible on desktop and mobile devices.
+   Customizable: You can easily change planet colors, sizes, and speeds by editing the CSS and JavaScript files.
+
